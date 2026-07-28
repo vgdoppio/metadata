@@ -1,0 +1,32 @@
+{
+    "notifications": [
+        {
+            "id": "0",
+            "type": "info",
+            "date": "2026-07-24",
+            "title": "Hi",
+            "message": "软件免费，请不要从他人处付费购买；有问题、功能需求可进入QQ群交流，同时最新版本也将发布到群文件中"
+        },
+        {
+            "id": "t1112a2a",
+            "type": "info",
+            "date": "2026-07-24",
+            "title": "Update v1.1.2",
+            "message": "添加中文支持fddddddddddddddf"
+        },
+        {
+            "id": "v1.2.0-update林ff",
+            "type": "update",
+            "version": "1.2.0",
+            "date": "2026-07-28",
+            "title": "发现新版本 v1.2.0 🚀",
+            "message": "1. 修复 WebView2 问题\n2. 增加在线更新功能",
+            "url": {
+                "windows-x86_64": "https://github.com/xxx/releases/download/v1.2.0/tauri-copymanga-win.zip",
+                "macos-aarch64": "https://github.com/vgdoppio/nexus-manga-kit/releases/download/one/nexus.zip",
+                "macos-x86_64": "https://github.com/xxx/releases/download/v1.2.0/tauri-copymanga-mac-intel.zip",
+                "default": "https://github.com/xxx/releases/download/v1.2.0/tauri-copymanga-universal.zip"
+            }
+        }
+    ]
+}
