@@ -13,7 +13,7 @@
             "version": "1.2.1",
             "date": "2026-07-29",
             "title": "v1.2.1",
-            "message": "最新版本1.2.1",
+            "message": "修复若干bug",
             "url": {
                 "windows-x86_64": "https://github.com/vgdoppio/vgdoppio.github.io/releases/download/latest/Nexus_Manga_Kit_v1.2.1_Windows.zip",
                 "macos-aarch64": "https://github.com/vgdoppio/vgdoppio.github.io/releases/download/latest/Nexus_Manga_Kit_v1.2.1_macOS.zip",
